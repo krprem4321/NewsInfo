@@ -7,4 +7,3 @@ NewsInfo Application in Kotlin
 * MVVM Architecture   https://developer.android.com/jetpack/guide
 * Kotlin Coroutines 
 * Glide library https://github.com/bumptech/glide
-
