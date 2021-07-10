@@ -10,7 +10,6 @@ import androidx.appcompat.app.AppCompatActivity
 import com.example.newsinfo.ui.NewsActivity
 
 class SplashActivity : AppCompatActivity() {
-    @RequiresApi(Build.VERSION_CODES.R)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
